@@ -1,6 +1,6 @@
 - Hi, I’m Evangelos Gravanis from Greece.
 - I’m interested in Front End development.
-- I’m currently learning vanilla Javascript, HTML, CSS and Angular while pursuing a degree in Mechanical Engineering.
+- I’m currently studying Angular while pursuing a degree in Mechanical Engineering.
 - You can reach me at : gravanisevangelos@gmail.com
 
 <!---
